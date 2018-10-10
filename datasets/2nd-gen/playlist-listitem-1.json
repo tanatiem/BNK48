@@ -1,0 +1,2451 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/UOti_NWXgbs1jCjEq-t5rW3cK1o\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 94,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/xRri-fa9L1fhK_Vffamn3Brfnxs\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:19:44.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #01 Pink / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #01 Pink\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mrde0QCIMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mrde0QCIMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mrde0QCIMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_mrde0QCIMc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_mrde0QCIMc",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/aarrt7BuXRybEIMuQDSGCfDPKhA\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:19:47.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #02 Jenny / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #02 Jenny\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-N1qCoJL9GM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-N1qCoJL9GM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-N1qCoJL9GM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-N1qCoJL9GM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-N1qCoJL9GM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-N1qCoJL9GM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-N1qCoJL9GM",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/6CPfsXw3ioIvlcnjzNMhxvLe534\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:20:57.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #03 View / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #03 View\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/db_MAqVVgfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/db_MAqVVgfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/db_MAqVVgfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/db_MAqVVgfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/db_MAqVVgfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "db_MAqVVgfo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "db_MAqVVgfo",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/7aDAPbr7W-KyBlr4PQWAGcfvpNs\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:29:08.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #04 Niky / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #04 Niky\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EHPBEYaRWJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EHPBEYaRWJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EHPBEYaRWJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EHPBEYaRWJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EHPBEYaRWJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EHPBEYaRWJc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EHPBEYaRWJc",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/FPGpPnjdG2lRByd4xjlL4S3TVuI\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:37:58.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #05 Punpun / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #05 Punpun\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W_qAURrG9SQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W_qAURrG9SQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W_qAURrG9SQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W_qAURrG9SQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W_qAURrG9SQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W_qAURrG9SQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "W_qAURrG9SQ",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/JZDLauxj_H5IfSmoY4HG0lkWNvQ\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:42:54.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #06 Ploysai / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #06 Ploysai\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t1TGhJae04g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t1TGhJae04g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t1TGhJae04g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t1TGhJae04g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t1TGhJae04g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t1TGhJae04g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "t1TGhJae04g",
+        "videoPublishedAt": "2018-03-21T05:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/csYu8Knlf2rCcHo1jx_zj-OwE9E\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-03-17T08:10:58.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #07 Preme / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #07 Preme\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j5qP2gPjOHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j5qP2gPjOHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j5qP2gPjOHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j5qP2gPjOHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j5qP2gPjOHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j5qP2gPjOHg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j5qP2gPjOHg",
+        "videoPublishedAt": "2018-03-21T05:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/I-MMkB4e2oCqOVqydO93QlzRWUY\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-03-18T15:44:44.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #08 Amy / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #08 Amy\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/17tq-sKv2j0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/17tq-sKv2j0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/17tq-sKv2j0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/17tq-sKv2j0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/17tq-sKv2j0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "17tq-sKv2j0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "17tq-sKv2j0",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/w3t25KB_ZnvO0IJoF9vkX61KRh4\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-03-18T15:45:26.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #09 Guitar / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #09 Guitar\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DGTK7BZeZ04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DGTK7BZeZ04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DGTK7BZeZ04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DGTK7BZeZ04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DGTK7BZeZ04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DGTK7BZeZ04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DGTK7BZeZ04",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/2kblp3LiYJ7W0hIbHaJHuODnyLk\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-03-18T15:46:32.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #10 Stang / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #10 Stang\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hb0u63jUlyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hb0u63jUlyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hb0u63jUlyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hb0u63jUlyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hb0u63jUlyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hb0u63jUlyU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Hb0u63jUlyU",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/DY2tGUvLCmSMeAuuI2xmAwbuj7c\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-03-18T15:47:18.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #11 Ying / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #11 Ying\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1SSfa1OzsJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1SSfa1OzsJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1SSfa1OzsJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1SSfa1OzsJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1SSfa1OzsJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1SSfa1OzsJw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1SSfa1OzsJw",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/_s48EAb-D5CactuADfiN20mKiTc\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:01:47.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #12 Jingjung / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #12 Jingjung\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6T2XN__JIvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6T2XN__JIvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6T2XN__JIvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6T2XN__JIvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6T2XN__JIvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6T2XN__JIvs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6T2XN__JIvs",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/tR1kTUifK7CYZNpkDpY0djc75D4\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:01:56.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #13 Neen / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #13 Neen\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9wbQpcmISQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9wbQpcmISQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9wbQpcmISQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9wbQpcmISQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9wbQpcmISQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p9wbQpcmISQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "p9wbQpcmISQ",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/oJBw3WMdvkYGXjN-hAEE0w_O1Qs\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:09:01.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #14 Bamboo / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #14 Bamboo\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v-unSmulEsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v-unSmulEsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v-unSmulEsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v-unSmulEsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v-unSmulEsw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v-unSmulEsw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "v-unSmulEsw",
+        "videoPublishedAt": "2018-03-21T05:00:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/fOcejwDyAhopUSFr2DCJsBOuOdE\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:10:07.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #15 Aomthong / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #15 Aomthong\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOFQLaZsVeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOFQLaZsVeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOFQLaZsVeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iOFQLaZsVeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iOFQLaZsVeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iOFQLaZsVeQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iOFQLaZsVeQ",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/SpIy2tuYRHKSNBMPEUOUbC2JKT4\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:10:40.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #16 Fond / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #16 Fond\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZnwNAYaIDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZnwNAYaIDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZnwNAYaIDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IZnwNAYaIDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IZnwNAYaIDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IZnwNAYaIDo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IZnwNAYaIDo",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/XEv_7QX7xM_263PiEMStKOThmq0\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:18:11.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #17 Nhun / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #17 Nhun\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EGESOZkBWfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EGESOZkBWfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EGESOZkBWfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EGESOZkBWfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EGESOZkBWfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EGESOZkBWfo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EGESOZkBWfo",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/plnRSSFcU_bIP0pgsGC3bITtEGE\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:38:29.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #18 Ratah / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #18 Ratah\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_QWYRUmiDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_QWYRUmiDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_QWYRUmiDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g_QWYRUmiDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g_QWYRUmiDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g_QWYRUmiDU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "g_QWYRUmiDU",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/rd4HtfgW2P8LXFAzyYa4OcqgSlA\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:38:41.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #19 Lin / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #19 Lin\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nrCRGJho5jU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nrCRGJho5jU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nrCRGJho5jU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nrCRGJho5jU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nrCRGJho5jU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nrCRGJho5jU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nrCRGJho5jU",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/L0ezihwx5AzK1XOOXgRcKh4QpBI\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:38:53.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #20 Oom / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #20 Oom\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cx1i4HMDgnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cx1i4HMDgnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cx1i4HMDgnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cx1i4HMDgnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cx1i4HMDgnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cx1i4HMDgnI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cx1i4HMDgnI",
+        "videoPublishedAt": "2018-03-21T05:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/w1HQCxJLD-iBaPkw3GucPGuOkkE\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #21 Manow / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #21 Manow\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Km6gYqsUpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Km6gYqsUpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Km6gYqsUpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Km6gYqsUpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Km6gYqsUpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Km6gYqsUpg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4Km6gYqsUpg",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/7PCMljwxCHSGpBIQigt9obQGZoI\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #22 Gygee / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #22 Gygee\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exsNiRQJXcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exsNiRQJXcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exsNiRQJXcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/exsNiRQJXcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/exsNiRQJXcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "exsNiRQJXcM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "exsNiRQJXcM",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/brzYibhp8oqrPxeB8bp2G4RF_y4\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #23 Bua / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #23 Bua\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EHi_Y091s1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EHi_Y091s1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EHi_Y091s1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EHi_Y091s1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EHi_Y091s1Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EHi_Y091s1Y"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EHi_Y091s1Y",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/r5Je_bTomODM2LfMbk-gYF124pQ\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #24 Millie / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #24 Millie\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AwKyqyM-0j8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AwKyqyM-0j8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwKyqyM-0j8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AwKyqyM-0j8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AwKyqyM-0j8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AwKyqyM-0j8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AwKyqyM-0j8",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/7FHPeALwidN2ezuMehH-flpyTUI\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #25 Vwee / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #25 Vwee\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYPk_AK3Rjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYPk_AK3Rjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYPk_AK3Rjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iYPk_AK3Rjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iYPk_AK3Rjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iYPk_AK3Rjw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iYPk_AK3Rjw",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/-bYYKmzD3rIDaaI0ZRHZRzmjnu0\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #26 Dear / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #26 Dear\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xSfqkoJZAnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xSfqkoJZAnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xSfqkoJZAnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xSfqkoJZAnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xSfqkoJZAnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xSfqkoJZAnU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xSfqkoJZAnU",
+        "videoPublishedAt": "2018-03-21T05:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/-Zej_eCARFR5cxjODKwrNw6_Nbw\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #27 Fogus / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #27 Fogus\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IfrY79siVWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IfrY79siVWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IfrY79siVWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IfrY79siVWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IfrY79siVWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IfrY79siVWU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IfrY79siVWU",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/Ycl3NN4YgE4GSxceiJfe3BOSk6U\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #28 Fifa / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #28 Fifa\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7yhvzEnfsek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7yhvzEnfsek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7yhvzEnfsek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7yhvzEnfsek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7yhvzEnfsek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7yhvzEnfsek"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7yhvzEnfsek",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/snIIApSzuQLgEYPkwV4hTlYL_dg\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #29 Mind / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #29 Mind\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BAcZlnSFWeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BAcZlnSFWeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BAcZlnSFWeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BAcZlnSFWeA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BAcZlnSFWeA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BAcZlnSFWeA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BAcZlnSFWeA",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/a18dWQZ2qZux_yO2IGf5RnOY4DY\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #30 Namphung / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #30 Namphung\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nu3R2qflPuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nu3R2qflPuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nu3R2qflPuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nu3R2qflPuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nu3R2qflPuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nu3R2qflPuc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Nu3R2qflPuc",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/eit9zo0ThT3yPPrrwEDFJ24NOLY\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #31 Deenee / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #31 Deenee\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_WkXHY_faHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_WkXHY_faHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_WkXHY_faHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_WkXHY_faHA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_WkXHY_faHA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_WkXHY_faHA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_WkXHY_faHA",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/GTMDL93gTLQpkk6arQxaOnNPxrA\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #32 Bibie / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #32 Bibie\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m91DzvzGL-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m91DzvzGL-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m91DzvzGL-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m91DzvzGL-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m91DzvzGL-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m91DzvzGL-s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "m91DzvzGL-s",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/fUhef5zfTD5QEPpfpO0et-2Im4o\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #33 Mind / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #33 Mind\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K6glRtg_wno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K6glRtg_wno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K6glRtg_wno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K6glRtg_wno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K6glRtg_wno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K6glRtg_wno"
+        }
+      },
+      "contentDetails": {
+        "videoId": "K6glRtg_wno",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/-r-SlrhuhcZgBK5LdBD4Wq7eO7w\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #34 Nene / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #34 Nene\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNE1_xdcuTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNE1_xdcuTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNE1_xdcuTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNE1_xdcuTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNE1_xdcuTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MNE1_xdcuTc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MNE1_xdcuTc",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/ogPCGfQNcdhkJD6nairJgwKXxyI\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #35 Confirm / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #35 Confirm\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X5RTAeftCfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X5RTAeftCfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X5RTAeftCfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X5RTAeftCfk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X5RTAeftCfk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X5RTAeftCfk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X5RTAeftCfk",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/TleYmRS0Wn5NnYAKf8PQapSmNZI\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #36 Aom / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #36 Aom\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIOo6u3JocM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIOo6u3JocM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIOo6u3JocM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zIOo6u3JocM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zIOo6u3JocM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zIOo6u3JocM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zIOo6u3JocM",
+        "videoPublishedAt": "2018-03-21T05:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/Y3Je80tzlbiVYd5JtdX9ey1J-60\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #37 Ice / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #37 Ice\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GSZXTIsbaKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GSZXTIsbaKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GSZXTIsbaKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GSZXTIsbaKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GSZXTIsbaKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GSZXTIsbaKM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GSZXTIsbaKM",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/KZbncZzmkydoBDJtFDW6Xh1_C7Y\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #38 Kati / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #38 Kati\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KxOH0q4jq00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KxOH0q4jq00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KxOH0q4jq00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KxOH0q4jq00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KxOH0q4jq00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KxOH0q4jq00"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KxOH0q4jq00",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/b3_KrNJgTLkUT9W_gkzFidhowHk\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #39 Kaew / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #39 Kaew\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kYaazyfaQjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kYaazyfaQjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kYaazyfaQjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kYaazyfaQjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kYaazyfaQjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kYaazyfaQjI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kYaazyfaQjI",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/R0blWwolx0ev9vCg6GRaoWELyiE\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #40 Minmin / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #40 Minmin\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v4lxvlMveHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v4lxvlMveHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v4lxvlMveHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v4lxvlMveHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v4lxvlMveHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v4lxvlMveHw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "v4lxvlMveHw",
+        "videoPublishedAt": "2018-03-21T05:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/QleTcNEZRncvWo_THjXqtJKaNRA\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #41 Dear / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #41 Dear\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ad0SrSdTV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ad0SrSdTV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ad0SrSdTV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2ad0SrSdTV8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2ad0SrSdTV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2ad0SrSdTV8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2ad0SrSdTV8",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/nyqzDRi6AYvh9rYWwKoxZTG8CNE\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #42 Panda / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #42 Panda\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lviz8KQuS-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lviz8KQuS-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lviz8KQuS-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lviz8KQuS-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lviz8KQuS-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lviz8KQuS-s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lviz8KQuS-s",
+        "videoPublishedAt": "2018-03-21T05:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/epYgzFHhhkA-bKbV3FflfEO4qUs\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #43 Iya / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #43 Iya\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zDutku415GQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zDutku415GQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDutku415GQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zDutku415GQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zDutku415GQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zDutku415GQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zDutku415GQ",
+        "videoPublishedAt": "2018-03-21T05:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/3NOEGMKGxkMvt0lUNec6fECyFjc\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #44 Atom / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #44 Atom\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k6f82yf66XA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k6f82yf66XA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k6f82yf66XA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k6f82yf66XA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k6f82yf66XA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k6f82yf66XA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "k6f82yf66XA",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/jy49ju8nP3Uxf4DWRQCYK5FcSTk\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #45 Matilda / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #45 Matilda\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2uk-gLcgHW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2uk-gLcgHW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2uk-gLcgHW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2uk-gLcgHW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2uk-gLcgHW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2uk-gLcgHW4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2uk-gLcgHW4",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/16YXcReIkwLjptsjANVOM1MSOAg\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #47 Maira / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #47 Maira\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLj3rYiurCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLj3rYiurCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLj3rYiurCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OLj3rYiurCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OLj3rYiurCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OLj3rYiurCI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OLj3rYiurCI",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/8fdf0lyOwQHlVM_3-K-V_dy1Ksg\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #48 Ply / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #48 Ply\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MJPGLU2yWHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MJPGLU2yWHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJPGLU2yWHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MJPGLU2yWHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MJPGLU2yWHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MJPGLU2yWHI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MJPGLU2yWHI",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/wTpFQ6vtMBVGQfNYzp8syvAtPt4\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #49 Wafer / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #49 Wafer\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/613wVYJWSmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/613wVYJWSmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/613wVYJWSmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/613wVYJWSmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/613wVYJWSmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "613wVYJWSmA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "613wVYJWSmA",
+        "videoPublishedAt": "2018-03-21T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/g0ADw279dWpe_tNZOWDXkRb00rc\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2018-03-18T16:41:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #50 Fai / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #50 Fai\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KQP3bh1_I0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KQP3bh1_I0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KQP3bh1_I0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KQP3bh1_I0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KQP3bh1_I0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4KQP3bh1_I0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4KQP3bh1_I0",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/_EGf7UEr6Tfw-ZDrrpEdV9CIFYM\"",
+      "id": "UExQVzlJZ00xandkdTRrTzVIT2ZSZEExSS1xVnRzVXlfRS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2018-03-18T17:11:33.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "[ BNK48 2nd Generation Candidate ] Entry #51 Lukpear / BNK48",
+        "description": "BNK48 WE NEED YOU 2 – BNK48 2nd Generation Audition\nEntry #51 Lukpear\n\nBNK48 Official Facebook :\nwww.facebook.com/bnk48official\n\nBNK48 Official Twitter :\nwww.twitter.com/bnk48official\n\nBNK48 Official Instagram :\nwww.instagram.com/bnk48\n\nBNK48 Official Website :\nwww.bnk48.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NM5sDTnZhzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NM5sDTnZhzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NM5sDTnZhzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NM5sDTnZhzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NM5sDTnZhzE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "playlistId": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NM5sDTnZhzE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NM5sDTnZhzE",
+        "videoPublishedAt": "2018-03-21T05:00:01.000Z"
+      }
+    }
+  ]
+}

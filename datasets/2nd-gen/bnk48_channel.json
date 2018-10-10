@@ -1,0 +1,409 @@
+/**
+ * API response
+ */
+
+/* PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E */
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/0sFeZMHVQgnCRyY5dBrWeqERhtI\"",
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/8pTl_qro-lA0F1iYw0b1YVo6UVE\"",
+      "id": "PLPW9IgM1jwdu4kO5HOfRdA1I-qVtsUy_E",
+      "snippet": {
+        "publishedAt": "2018-03-17T07:19:33.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "BNK48 2nd Generation Audition Candidates",
+        "description": "BNK48 2nd Generation Audition 〜94 candidates〜",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mrde0QCIMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mrde0QCIMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mrde0QCIMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "BNK48 2nd Generation Audition Candidates",
+          "description": "BNK48 2nd Generation Audition 〜94 candidates〜"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 94
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/jcRdMyZNEPmnbeblSkKhyoBmP5w\"",
+      "id": "PLPW9IgM1jwdt1go717kwU0cUJkIsYI2yf",
+      "snippet": {
+        "publishedAt": "2018-01-11T16:47:09.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "เพื่อนร่วมทาง The Journey",
+        "description": "\"เพื่อนร่วมทาง The Journey\"\n1 Season, 13 Episodes\nChannel 9 MCOT HD (Ch.30) 5:00-6:00 pm (Local time)\nEvery Saturday\n\nSeason 1 (Airing)\nJanuary 6, 2018 -",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7Dq6P-OmW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7Dq6P-OmW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7Dq6P-OmW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x7Dq6P-OmW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x7Dq6P-OmW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "เพื่อนร่วมทาง The Journey",
+          "description": "\"เพื่อนร่วมทาง The Journey\"\n1 Season, 13 Episodes\nChannel 9 MCOT HD (Ch.30) 5:00-6:00 pm (Local time)\nEvery Saturday\n\nSeason 1 (Airing)\nJanuary 6, 2018 -"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/Kcr41aJTsDHFloeKuf3wN3R6P_U\"",
+      "id": "PLPW9IgM1jwduLMYMA6x3K6ExwDntxE-qP",
+      "snippet": {
+        "publishedAt": "2018-01-07T07:07:49.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "Music Video",
+        "description": "BNK48 Music Video\n\n1st Single \"Aitakatta –อยากจะได้พบเธอ–\"\nNow available on iTunes\nhttps://itunes.apple.com/th/album/aitakatta-%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%94-%E0%B8%9E%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD-ep/1269508286\n\n2nd Single \"Koisuru Fortune Cookie –คุกกี้เสี่ยงทาย–\"\nNow available on iTunes\nhttps://itunes.apple.com/th/album/koisuru-fortune-cookie-%E0%B8%84-%E0%B8%81%E0%B8%81-%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%A2-ep/1319442133",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdgemowocu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdgemowocu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdgemowocu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zdgemowocu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zdgemowocu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "Music Video",
+          "description": "BNK48 Music Video\n\n1st Single \"Aitakatta –อยากจะได้พบเธอ–\"\nNow available on iTunes\nhttps://itunes.apple.com/th/album/aitakatta-%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%94-%E0%B8%9E%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD-ep/1269508286\n\n2nd Single \"Koisuru Fortune Cookie –คุกกี้เสี่ยงทาย–\"\nNow available on iTunes\nhttps://itunes.apple.com/th/album/koisuru-fortune-cookie-%E0%B8%84-%E0%B8%81%E0%B8%81-%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%A2-ep/1319442133"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/okZC0DN9MsfpULea4ASdmY4fkIA\"",
+      "id": "PLPW9IgM1jwds1P4bMZRwJ4lnin-m9MXMG",
+      "snippet": {
+        "publishedAt": "2018-01-07T07:05:03.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "BNK48 We Wish You! A Merry Christmas –Fan Meet–",
+        "description": "\"BNK48 We Wish You! A Merry Christmas –Fan Meet–\"\n2017.12.24 K-Bank Siam Pic-Ganesha\n\nSetlist\nSP.Shonichi (Instrumental Solo ver.)\nM00.overture (BNK48 ver.)\nM01.Oogoe Diamond –ก็ชอบ ให้รู้ว่าชอบ–\nM02.Skirt, Hirari –พลิ้ว–\nM03.Koisuru Fortune Cookie –คุกกี้เสี่ยงทาย–\nM04.BNK48\nMC\n[ BNK48 The Musical ]\nM05.Christmas Medley (Silent Night〜We Wish You A Merry Christmas)\nMC\n[ Lucky Draw ]\n[ Announcement ]\n- Noon: 1st Photobook \"The Sisters\" / BNK48 Team BⅢ\n- Evening: 2nd Generation Audition / BNK48 3rd Single\nMC\nM06.365nichi no Kamihikouki –365 วันกับเครื่องบินกระดาษ–",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kMKIybO_1Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kMKIybO_1Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kMKIybO_1Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kMKIybO_1Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kMKIybO_1Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "BNK48 We Wish You! A Merry Christmas –Fan Meet–",
+          "description": "\"BNK48 We Wish You! A Merry Christmas –Fan Meet–\"\n2017.12.24 K-Bank Siam Pic-Ganesha\n\nSetlist\nSP.Shonichi (Instrumental Solo ver.)\nM00.overture (BNK48 ver.)\nM01.Oogoe Diamond –ก็ชอบ ให้รู้ว่าชอบ–\nM02.Skirt, Hirari –พลิ้ว–\nM03.Koisuru Fortune Cookie –คุกกี้เสี่ยงทาย–\nM04.BNK48\nMC\n[ BNK48 The Musical ]\nM05.Christmas Medley (Silent Night〜We Wish You A Merry Christmas)\nMC\n[ Lucky Draw ]\n[ Announcement ]\n- Noon: 1st Photobook \"The Sisters\" / BNK48 Team BⅢ\n- Evening: 2nd Generation Audition / BNK48 3rd Single\nMC\nM06.365nichi no Kamihikouki –365 วันกับเครื่องบินกระดาษ–"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/40cKEtAJEkV9urzcqAOrCFA_hXA\"",
+      "id": "PLPW9IgM1jwduNanV2hswU7WjPCgMg5LJB",
+      "snippet": {
+        "publishedAt": "2017-11-21T10:33:13.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "BNK48 Mini Live and Handshake",
+        "description": "\"BNK48 Mini Live and Handshake\"\n2017.11.18 JJ Mall\n\nSetlist\nM00.overture (BNK48 ver.)\nM01.Koisuru Fortune Cookie –คุกกี้เสี่ยงทาย–\nM02.Oogoe Diamond –ก็ชอบ ให้รู้ว่าชอบ–\nM03.Skirt, Hirari –พลิ้ว–\nM04.BNK48\nM05.365nichi no Kamihikouki –365 วันกับเครื่องบินกระดาษ–",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZR5uKlDArww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZR5uKlDArww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZR5uKlDArww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZR5uKlDArww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZR5uKlDArww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "BNK48 Mini Live and Handshake",
+          "description": "\"BNK48 Mini Live and Handshake\"\n2017.11.18 JJ Mall\n\nSetlist\nM00.overture (BNK48 ver.)\nM01.Koisuru Fortune Cookie –คุกกี้เสี่ยงทาย–\nM02.Oogoe Diamond –ก็ชอบ ให้รู้ว่าชอบ–\nM03.Skirt, Hirari –พลิ้ว–\nM04.BNK48\nM05.365nichi no Kamihikouki –365 วันกับเครื่องบินกระดาษ–"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/Fh26C3dXMIsSz9z8WEton-UUalc\"",
+      "id": "PLPW9IgM1jwdvgxEycT7HsH9caHJ8phnQt",
+      "snippet": {
+        "publishedAt": "2017-09-15T13:30:16.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "BNK48 Free Time",
+        "description": "\"BNK48 Free Time\"\n\n2 Episodes (Pilot)\nSeptember 17, 2017 - September 23, 2017",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AGt_BxDfjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AGt_BxDfjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AGt_BxDfjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4AGt_BxDfjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4AGt_BxDfjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "BNK48 Free Time",
+          "description": "\"BNK48 Free Time\"\n\n2 Episodes (Pilot)\nSeptember 17, 2017 - September 23, 2017"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 2
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/9a3Jj8YfOU2-I3x08mhHXZ7lFac\"",
+      "id": "PLPW9IgM1jwduwDVmNQrQvMVR2y0Npa06E",
+      "snippet": {
+        "publishedAt": "2017-07-10T11:02:14.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "BNK48 SHOW",
+        "description": "\"BNK48 SHOW\"\n1 Season, 13 Episodes\nChannel 3SD (Ch.28) 5:00-6:00 pm (Local time)\nEvery Sunday\n\nSeason 1 (13 Episodes)\nJuly 9, 2017 - November 26, 2017",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aFZJk4FUSxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aFZJk4FUSxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aFZJk4FUSxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aFZJk4FUSxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "BNK48 SHOW",
+          "description": "\"BNK48 SHOW\"\n1 Season, 13 Episodes\nChannel 3SD (Ch.28) 5:00-6:00 pm (Local time)\nEvery Sunday\n\nSeason 1 (13 Episodes)\nJuly 9, 2017 - November 26, 2017"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 52
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/J7DOGDoNt3GXgJQzHuUuSol4IbM\"",
+      "id": "PLPW9IgM1jwdt9NmUwhwcs8xBDC10fVqhL",
+      "snippet": {
+        "publishedAt": "2017-04-30T18:15:04.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "29 Seconds of 29 members",
+        "description": "เมื่อสมาชิก BNK48 ทั้ง 29 คน มาพูดโปรโมท Photo Set ภายใน 29 วินาที\nโอกาส 1 เทค ของ 29 คน ใน 29 วิ ขายรูปตัวเองให้ได้ จะเป็นอย่างไร โปรดติดตาม",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ooyxicrZW_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ooyxicrZW_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ooyxicrZW_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ooyxicrZW_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "29 Seconds of 29 members",
+          "description": "เมื่อสมาชิก BNK48 ทั้ง 29 คน มาพูดโปรโมท Photo Set ภายใน 29 วินาที\nโอกาส 1 เทค ของ 29 คน ใน 29 วิ ขายรูปตัวเองให้ได้ จะเป็นอย่างไร โปรดติดตาม"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/AK8PnAhDOIDWcq3IUJxdmKLyLKY\"",
+      "id": "PLPW9IgM1jwdt95rKARywBxtFxRjMH8JzI",
+      "snippet": {
+        "publishedAt": "2017-03-01T15:24:02.000Z",
+        "channelId": "UClIsaGq7vBEW00ASqwQyzPw",
+        "title": "BNK48 Senpai",
+        "description": "\"BNK48 Senpai\" \n1 Season, 13 Episodes\nChannel 3SD (Ch.28) 8:45-9:45 pm (Local time)\nEvery Tuesday - Thursday\n\nSeason 1 (13 Episodes)\nMarch 1, 2017 - March 29, 2017",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6HgZqp-ew8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6HgZqp-ew8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6HgZqp-ew8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6HgZqp-ew8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6HgZqp-ew8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNK48",
+        "localized": {
+          "title": "BNK48 Senpai",
+          "description": "\"BNK48 Senpai\" \n1 Season, 13 Episodes\nChannel 3SD (Ch.28) 8:45-9:45 pm (Local time)\nEvery Tuesday - Thursday\n\nSeason 1 (13 Episodes)\nMarch 1, 2017 - March 29, 2017"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 55
+      }
+    }
+  ]
+}
